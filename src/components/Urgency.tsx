@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Clock, Flame, Users, AlertTriangle } from 'lucide-react';
 
 export default function Urgency() {
