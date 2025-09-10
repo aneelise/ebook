@@ -23,8 +23,4 @@ Botões de compra integrados 💳
 HTML / JSX  
 CSS / Tailwind  
 React.js  
-
-
-JavaScript – interatividade e funcionalidades ⚡
-
-React.js – organização de componentes ⚛️
+JavaScript 
