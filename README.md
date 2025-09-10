@@ -20,7 +20,9 @@ Botões de compra integrados 💳
 
 # 🛠 Tecnologias Utilizadas
 
-HTML / JSX  
-CSS / Tailwind  
-React.js  
-JavaScript 
+📲 React.js    
+📲 Tailwind CSS  
+📲 JavaScript  
+📲 TypeScript  
+📲 HTML (JSX)  
+📲 Responsivo  
